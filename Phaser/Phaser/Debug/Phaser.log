@@ -1,0 +1,5 @@
+﻿  Phaser.cpp
+c:\users\多\documents\visual studio 2015\projects\phaser\phaser\phaser.cpp(274): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+c:\users\多\documents\visual studio 2015\projects\phaser\phaser\phaser.cpp(326): warning C4018: “<”: 有符号/无符号不匹配
+  Phaser.vcxproj -> C:\Users\多\Documents\Visual Studio 2015\Projects\Phaser\Debug\Phaser.exe
+  Phaser.vcxproj -> C:\Users\多\Documents\Visual Studio 2015\Projects\Phaser\Debug\Phaser.pdb (Partial PDB)

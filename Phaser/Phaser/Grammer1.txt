@@ -1,0 +1,10 @@
+ETABF
+i+*@()
+E->TA
+A->+TA
+A->@
+T->FB
+B->*FB
+B->@
+F->i
+F->(E)
